@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>ゆいきちナビ - 3D Navi App</title>
+    <title>ゆいきちナビ</title>
 
     <script src="https://unpkg.com/maplibre-gl@3.3.1/dist/maplibre-gl.js"></script>
     <link href="https://unpkg.com/maplibre-gl@3.3.1/dist/maplibre-gl.css" rel="stylesheet" />
@@ -131,7 +131,7 @@
 
     <div id="auth-screen">
         <div class="auth-card">
-            <div class="auth-logo">🌟 ゆいきちアカウント</div>
+            <div class="auth-logo">ゆいきちアカウント</div>
             
             <div id="step-start" class="auth-step active">
                 <p style="margin-bottom: 20px; font-size: 14px;">アプリを利用するには<br>ログインが必要です。</p>
